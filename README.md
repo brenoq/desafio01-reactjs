@@ -1,4 +1,4 @@
-<img src="./.github/igniteLogo.svg" align="center" />
+<img src="./.github/ignite.png" align="center" />
 
 <br>
 
